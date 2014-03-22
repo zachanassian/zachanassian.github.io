@@ -4,7 +4,11 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url> 
     <loc>http://zachanassian.github.io/tu_optimize/index.html</loc>
+  </url>
+  <url>
     <loc>http://zachanassian.github.io/tu_optimize/install.html</loc>
+  </url>
+  <url>
     <loc>http://zachanassian.github.io/tu_optimize/faq.html</loc>
   </url>
 </urlset>
